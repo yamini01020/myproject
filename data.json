@@ -1,0 +1,54 @@
+{"basics":{
+  "Image":"Koala.jpg",
+  "Name":"Yamini",
+  "Phonenumber":"+91-9876543210",
+  "email":"dronavajjhalayamini@gmail.com",
+  "Adress":"SRKR College,Bhimavaram.",
+  "Text":"Address"
+},
+
+"careerobjective":{
+    "head":"Career Objective",
+    "info":"To pursue a challenging career."
+  },
+"education":[
+
+{
+  "degree":"B.tech",
+  "institute":"SRKR College",
+  "duration":["2017","2021"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"Sri Chaitanya College",
+  "duration":["2015","2017"]
+},
+{
+  "degree":"SSC",
+  "institute":"Ramakrishna Public School",
+  "duration":"2015"
+}
+],
+"skills":[
+
+  {
+    "title":"Languages",
+    "data":["C","C++","Java","Ruby","Python"]
+  },
+  {
+    "title":"Data Base",
+    "data":["Sql","My Sql","Oracle"]
+  },
+  {
+    "title":"Operating Systems",
+    "data":["Windows","Linux","Unix"]
+  }
+],
+"ach":
+{
+  "h":"ACHIEVEMENTS",
+  "a":"*Successfully completed arduino",
+  "b":"Lead a key role in cisco networking academy",
+  "c":"Enrolled in Yes+ courses"
+}
+}
